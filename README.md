@@ -1,1 +1,1 @@
-# ITSports_test_task
+# Тестовое задание на вакансию стажёра Front-end разработчика в компанию ITSports
